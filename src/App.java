@@ -1,7 +1,8 @@
 import datasource.*;
 
-public class App {
+/** Декоратор, также известен как: Wrapper, Обёртка, Decorator */
 
+public class App {
 
     public static void main(String[] args) {
 
